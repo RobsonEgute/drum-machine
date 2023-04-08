@@ -131,6 +131,8 @@ render() {
       return this.handleClickC();
     case "C":
       return this.handleClickC();
+    default:
+      break;
    }
   }
   
